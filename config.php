@@ -6,6 +6,7 @@
 @define('API_KEY', 'AIzaSyDpryDy8O7eB2pEyDcOXgju7A2Gl6LGkCU');
 @define('USER_PASSWORD', 'AAlogics123');
 @define('USER_NAME', 'farhanahmed1244@gmail.com');
+@define('USER_NAME2', 'farhanahmed1244@gmail.com');
 
 //server handling
 if ($_SERVER['SERVER_NAME'] == "localhost") {
